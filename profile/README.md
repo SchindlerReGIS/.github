@@ -1,1 +1,1 @@
-# ReGIS: Research Group for Innovation at Schindler
+# Research Group for Innovation at Schindler
